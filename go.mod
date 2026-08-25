@@ -1,9 +1,9 @@
 module carvel.dev/vendir
 
-go 1.25.7
+go 1.26.5
 
 require (
-	carvel.dev/imgpkg v0.48.0
+	carvel.dev/imgpkg v0.48.1
 	github.com/bmatcuk/doublestar v1.2.1
 	github.com/carvel-dev/semver/v4 v4.0.1
 	github.com/cppforlife/cobrautil v0.0.0-20221021151949-d60711905d65
@@ -18,9 +18,9 @@ require (
 	github.com/phayes/freeport v0.0.0-20220201140144-74d24b5ae9f5
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/crypto v0.49.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/oauth2 v0.30.0
-	golang.org/x/tools v0.43.0
+	golang.org/x/tools v0.44.0
 	gopkg.in/inf.v0 v0.9.1
 	k8s.io/apimachinery v0.24.3
 	k8s.io/code-generator v0.17.2
@@ -92,16 +92,16 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/sirupsen/logrus v1.9.4 // indirect
-	github.com/spf13/pflag v1.0.9 // indirect
+	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/vbatts/tar-split v0.12.1 // indirect
 	github.com/vito/go-interact v1.0.1 // indirect
-	golang.org/x/mod v0.34.0 // indirect
-	golang.org/x/net v0.52.0 // indirect
+	golang.org/x/mod v0.36.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
-	golang.org/x/sys v0.44.0 // indirect
-	golang.org/x/telemetry v0.0.0-20260311193753-579e4da9a98c // indirect
-	golang.org/x/term v0.41.0 // indirect
-	golang.org/x/text v0.35.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/telemetry v0.0.0-20260409153401-be6f6cb8b1fa // indirect
+	golang.org/x/term v0.43.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	gonum.org/v1/gonum v0.0.0-20190331200053-3d26580ed485 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
